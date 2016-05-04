@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="InstructionsView">
+        <attr name="radius" format="dimension" />
+        <attr name="criclespacing" format="dimension" />
+        <attr name="criclestrokewidth" format="dimension" />
+        <attr name="staticcriclecolor" format="color" />
+        <attr name="movecriclecolor" format="color" />
+        <attr name="criclecount" format="integer" />
+    </declare-styleable>
+
+</resources>
+
